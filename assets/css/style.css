@@ -1,0 +1,13 @@
+.logo{
+    max-height: 200px !important;
+    width: 120px;
+}
+.bg-fju{
+    background: linear-gradient(60deg, rgba(178,16,33,1) 0%, rgba(43,57,82,1) 100%) !important;
+}
+.nav-link.active:before {
+    border-left: 2px solid rgba(178,16,33,1) !important;
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #b21021;
+}
